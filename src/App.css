@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+
+ul {
+  padding-left: 0;
+  list-style: 0;
+}
